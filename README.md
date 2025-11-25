@@ -1,4 +1,4 @@
-##Автоматизированные тесты для PetStore API с использованием Pydantic и Allure.
+## Автоматизированные тесты для PetStore API с использованием Pydantic и Allure.
 
 ## Установка
 
